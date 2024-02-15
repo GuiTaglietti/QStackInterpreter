@@ -20,7 +20,7 @@ Currently, to run the application, you will need at least QT6 and a Linux enviro
 
 1 - Clone the repository
 ```bash
-  git clone <repolink>
+  git clone https://github.com/GuiTaglietti/QStackInterpreter.git
 ```
 
 2 - Launch QTCreator and open the project, build and run
